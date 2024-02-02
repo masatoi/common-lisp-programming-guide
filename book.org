@@ -1,7 +1,7 @@
 # -*- Coding: utf-8; Mode: Org; -*-
 #+STARTUP: indent
 
-* Root
+* Common Lispプログラミングガイド
 
 * 1. はじめに
 
